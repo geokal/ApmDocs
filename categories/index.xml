@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Giorgos Kal</title>
+    <link>https://geokal.github.io/ApmDocs/categories/</link>
+    <description>Recent content in Categories on Giorgos Kal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Giorgos Kal</copyright>
+    <lastBuildDate>Fri, 02 May 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://geokal.github.io/ApmDocs/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Web Development</title>
+      <link>https://geokal.github.io/ApmDocs/categories/web-development/</link>
+      <pubDate>Fri, 02 May 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://geokal.github.io/ApmDocs/categories/web-development/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

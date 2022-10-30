@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://geokal.github.io/ApmDocs/</loc>
+    <lastmod>2014-05-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://geokal.github.io/ApmDocs/blog/</loc>
+    <lastmod>2014-05-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://geokal.github.io/ApmDocs/categories/</loc>
+    <lastmod>2014-05-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://geokal.github.io/ApmDocs/blog/hello/</loc>
+    <lastmod>2014-05-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://geokal.github.io/ApmDocs/categories/web-development/</loc>
+    <lastmod>2014-05-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://geokal.github.io/ApmDocs/about/</loc>
+  </url><url>
+    <loc>https://geokal.github.io/ApmDocs/contact/</loc>
+  </url><url>
+    <loc>https://geokal.github.io/ApmDocs/tags/</loc>
+  </url><url>
+    <loc>https://geokal.github.io/ApmDocs/blog/untitled/</loc>
+  </url>
+</urlset>
